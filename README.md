@@ -1,5 +1,3 @@
-# Maxi
-
 ## About me
 
 My career started as an electronic engineer, understanding how technology works from the transistor level. With a strong base of structured programming languages applied directly to microprocessors firmware, I have been able to continue learning higher level programming languages consciously, always trying to find the equilibrium between ease of implementation and performance needed for each use case. 
